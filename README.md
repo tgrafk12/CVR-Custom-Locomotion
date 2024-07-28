@@ -5,6 +5,9 @@ In the current State, it IS useable, but is NOT fully thought out yet! I have MA
 
 Please use CCK v3.10 or above.
 
+
+My UnityPackages uploaded here, require one or more of the following credits, or scripts...
+
 Other Credits include (and are to change eventually):
-GoGoLoco - By Franda
-SimpleAAS - By NotAKidoS
+[GoGoLoco](https://github.com/Franada/goloco) - By Franda
+[SimpleAAS](https://github.com/NotAKidoS/SimpleAAS) - By NotAKidoS
